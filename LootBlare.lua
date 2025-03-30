@@ -10,10 +10,10 @@ local item_query = 0.5
 local times = 5
 local discover = CreateFrame("GameTooltip", "CustomTooltip1", UIParent, "GameTooltipTemplate")
 local masterLooter = nil
-local srRollCap = 101
+local srRollCap = 100
 local msRollCap = 100
 local osRollCap = 99
-local tmogRollCap = 50
+local tmogRollCap = 98
 
 local BUTTON_WIDTH = 32
 local BUTTON_COUNT = 4
